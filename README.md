@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazing Externship Experience with Crio Winter of Doing](https://medium.com/@aadityasinghal1978/amazing-externship-experience-with-crio-winter-of-doing-4dba77702ad3?source=rss-f49749343904------2)
+- [Facial expression detection using Machine Learning in Python](https://medium.com/analytics-vidhya/facial-expression-detection-using-machine-learning-in-python-c6a188ac765f?source=rss-f49749343904------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
