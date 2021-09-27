@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Aaditya1978/Aaditya1978/blob/main/Aaditya.png?raw=true" alt="aaditya1978" /> </p>
+<p align="center"> <img src="https://github.com/Aaditya1978/Aaditya1978/blob/main/Aaditya%20Singhal.png?raw=true" alt="aaditya1978" /> </p>
 
 <h1 align="center">Hi 👋, My Name is Aaditya Singhal</h1>
 <h3 align="center">I am a Backend developer, Web developer and ML Enthusiast, I love to contribute to Open-Source and explore and learn new tech everyday.</h3>
