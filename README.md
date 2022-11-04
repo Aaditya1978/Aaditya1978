@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditya1978&show_icons=true&locale=en" alt="aaditya1978" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya1978&" alt="aaditya1978" /></p>
+
+
+[![@aaditya1978's Holopin board](https://holopin.me/aaditya1978)](https://holopin.io/@aaditya1978)
