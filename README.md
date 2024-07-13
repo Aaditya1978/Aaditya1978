@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aadityasinghal1978@gmail.com**
 
-- 📄 Know about my experiences [MY Resume](https://drive.google.com/file/d/1npoxihm2h0Hpzo48ncnwzg_Uh5c25m2B/view?usp=sharing)
+- 📄 Know about my experiences [MY Resume](https://drive.google.com/file/d/17ltADMeXjlyxaIcBAWjz1Mq-F1YdP_f_/view?usp=sharing)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditya1978&show_icons=true&locale=en" alt="aaditya1978" /></p>
 
